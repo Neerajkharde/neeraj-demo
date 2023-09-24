@@ -1,4 +1,4 @@
-# neeraj-demo
-This is my first Git Repository.
-<br>
-Author - Neeraj Kharde
+#Academics Notes
+1. Physics
+2. Code Theory
+3. Mechanics
